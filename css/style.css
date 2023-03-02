@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+
+}
+
+
 body{
     text-align: center;
     font-family: 'Nunito', sans-serif;
@@ -11,4 +17,41 @@ h1 {
     color: mediumvioletred;
     font-weight: 1000 ;
     
+}
+
+section { 
+    float: left;
+    background-color: black;
+    width: 30%;
+    margin: 10px;
+}
+
+
+img {
+    float: left;
+    height: 8em;
+}
+
+
+
+div {
+    text-align: left;
+    vertical-align: center;
+
+    margin-left: 1em;
+    float: left;
+    height: 8em;
+
+}
+
+h2 {
+    margin: 8px 0;
+}
+
+.testobianco {
+    color: white;
+}
+
+.email {
+    color: skyblue;
 }
